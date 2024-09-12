@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.AssemblyInfo.cs
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\AdivinhaNumero\bin\Debug\net8.0\AdivinhaNumero.exe
+C:\Users\24111795\source\repos\AdivinhaNumero\bin\Debug\net8.0\AdivinhaNumero.deps.json
+C:\Users\24111795\source\repos\AdivinhaNumero\bin\Debug\net8.0\AdivinhaNumero.runtimeconfig.json
+C:\Users\24111795\source\repos\AdivinhaNumero\bin\Debug\net8.0\AdivinhaNumero.dll
+C:\Users\24111795\source\repos\AdivinhaNumero\bin\Debug\net8.0\AdivinhaNumero.pdb
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.dll
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\refint\AdivinhaNumero.dll
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.pdb
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\AdivinhaNumero.genruntimeconfig.cache
+C:\Users\24111795\source\repos\AdivinhaNumero\obj\Debug\net8.0\ref\AdivinhaNumero.dll

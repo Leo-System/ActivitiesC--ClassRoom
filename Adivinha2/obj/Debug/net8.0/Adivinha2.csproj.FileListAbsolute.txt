@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\Adivinha2\bin\Debug\net8.0\Adivinha2.exe
+C:\Users\24111795\source\repos\Adivinha2\bin\Debug\net8.0\Adivinha2.deps.json
+C:\Users\24111795\source\repos\Adivinha2\bin\Debug\net8.0\Adivinha2.runtimeconfig.json
+C:\Users\24111795\source\repos\Adivinha2\bin\Debug\net8.0\Adivinha2.dll
+C:\Users\24111795\source\repos\Adivinha2\bin\Debug\net8.0\Adivinha2.pdb
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.AssemblyInfo.cs
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.dll
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\refint\Adivinha2.dll
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.pdb
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\Adivinha2.genruntimeconfig.cache
+C:\Users\24111795\source\repos\Adivinha2\obj\Debug\net8.0\ref\Adivinha2.dll

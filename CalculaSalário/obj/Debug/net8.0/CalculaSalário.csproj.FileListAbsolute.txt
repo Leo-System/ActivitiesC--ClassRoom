@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\CalculaSalário\bin\Debug\net8.0\CalculaSalário.exe
+C:\Users\24111795\source\repos\CalculaSalário\bin\Debug\net8.0\CalculaSalário.deps.json
+C:\Users\24111795\source\repos\CalculaSalário\bin\Debug\net8.0\CalculaSalário.runtimeconfig.json
+C:\Users\24111795\source\repos\CalculaSalário\bin\Debug\net8.0\CalculaSalário.dll
+C:\Users\24111795\source\repos\CalculaSalário\bin\Debug\net8.0\CalculaSalário.pdb
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.AssemblyInfo.cs
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.dll
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\refint\CalculaSalário.dll
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.pdb
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\CalculaSalário.genruntimeconfig.cache
+C:\Users\24111795\source\repos\CalculaSalário\obj\Debug\net8.0\ref\CalculaSalário.dll

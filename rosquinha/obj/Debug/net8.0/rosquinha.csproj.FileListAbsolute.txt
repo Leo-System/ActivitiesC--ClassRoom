@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\rosquinha\bin\Debug\net8.0\rosquinha.exe
+C:\Users\24111795\source\repos\rosquinha\bin\Debug\net8.0\rosquinha.deps.json
+C:\Users\24111795\source\repos\rosquinha\bin\Debug\net8.0\rosquinha.runtimeconfig.json
+C:\Users\24111795\source\repos\rosquinha\bin\Debug\net8.0\rosquinha.dll
+C:\Users\24111795\source\repos\rosquinha\bin\Debug\net8.0\rosquinha.pdb
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.AssemblyInfo.cs
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.dll
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\refint\rosquinha.dll
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.pdb
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\rosquinha.genruntimeconfig.cache
+C:\Users\24111795\source\repos\rosquinha\obj\Debug\net8.0\ref\rosquinha.dll

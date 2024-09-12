@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\CalculaNota\bin\Debug\net8.0\CalculaNota.exe
+C:\Users\24111795\source\repos\CalculaNota\bin\Debug\net8.0\CalculaNota.deps.json
+C:\Users\24111795\source\repos\CalculaNota\bin\Debug\net8.0\CalculaNota.runtimeconfig.json
+C:\Users\24111795\source\repos\CalculaNota\bin\Debug\net8.0\CalculaNota.dll
+C:\Users\24111795\source\repos\CalculaNota\bin\Debug\net8.0\CalculaNota.pdb
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.AssemblyInfo.cs
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.dll
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\refint\CalculaNota.dll
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.pdb
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\CalculaNota.genruntimeconfig.cache
+C:\Users\24111795\source\repos\CalculaNota\obj\Debug\net8.0\ref\CalculaNota.dll

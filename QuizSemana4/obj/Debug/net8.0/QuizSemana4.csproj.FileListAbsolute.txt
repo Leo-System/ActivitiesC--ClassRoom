@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.AssemblyInfo.cs
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\QuizSemana4\bin\Debug\net8.0\QuizSemana4.exe
+C:\Users\24111795\source\repos\QuizSemana4\bin\Debug\net8.0\QuizSemana4.deps.json
+C:\Users\24111795\source\repos\QuizSemana4\bin\Debug\net8.0\QuizSemana4.runtimeconfig.json
+C:\Users\24111795\source\repos\QuizSemana4\bin\Debug\net8.0\QuizSemana4.dll
+C:\Users\24111795\source\repos\QuizSemana4\bin\Debug\net8.0\QuizSemana4.pdb
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.dll
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\refint\QuizSemana4.dll
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.pdb
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\QuizSemana4.genruntimeconfig.cache
+C:\Users\24111795\source\repos\QuizSemana4\obj\Debug\net8.0\ref\QuizSemana4.dll

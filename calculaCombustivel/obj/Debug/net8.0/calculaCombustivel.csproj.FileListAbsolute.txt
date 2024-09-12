@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\calculaCombustivel\bin\Debug\net8.0\calculaCombustivel.exe
+C:\Users\24111795\source\repos\calculaCombustivel\bin\Debug\net8.0\calculaCombustivel.deps.json
+C:\Users\24111795\source\repos\calculaCombustivel\bin\Debug\net8.0\calculaCombustivel.runtimeconfig.json
+C:\Users\24111795\source\repos\calculaCombustivel\bin\Debug\net8.0\calculaCombustivel.dll
+C:\Users\24111795\source\repos\calculaCombustivel\bin\Debug\net8.0\calculaCombustivel.pdb
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.AssemblyInfo.cs
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.dll
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\refint\calculaCombustivel.dll
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.pdb
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\calculaCombustivel.genruntimeconfig.cache
+C:\Users\24111795\source\repos\calculaCombustivel\obj\Debug\net8.0\ref\calculaCombustivel.dll

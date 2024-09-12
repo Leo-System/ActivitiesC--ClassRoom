@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rmr9U0rZ5DA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\24111795\\source\\repos\\TreinoPessoal\\TreinoPessoal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\24111795\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.7\\microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512",
+    "C:\\Users\\24111795\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\24111795\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.7\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.AssemblyInfoInputs.cache
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.AssemblyInfo.cs
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.csproj.CoreCompileInputs.cache
+C:\Users\24111795\source\repos\TreinoPessoal\bin\Debug\net8.0\TreinoPessoal.exe
+C:\Users\24111795\source\repos\TreinoPessoal\bin\Debug\net8.0\TreinoPessoal.deps.json
+C:\Users\24111795\source\repos\TreinoPessoal\bin\Debug\net8.0\TreinoPessoal.runtimeconfig.json
+C:\Users\24111795\source\repos\TreinoPessoal\bin\Debug\net8.0\TreinoPessoal.dll
+C:\Users\24111795\source\repos\TreinoPessoal\bin\Debug\net8.0\TreinoPessoal.pdb
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.dll
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\refint\TreinoPessoal.dll
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.pdb
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\TreinoPessoal.genruntimeconfig.cache
+C:\Users\24111795\source\repos\TreinoPessoal\obj\Debug\net8.0\ref\TreinoPessoal.dll
