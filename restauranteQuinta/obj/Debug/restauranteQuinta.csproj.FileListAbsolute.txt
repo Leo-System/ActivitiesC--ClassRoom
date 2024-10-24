@@ -8,3 +8,4 @@ C:\Users\24111795\source\repos\restauranteQuinta\obj\Debug\restauranteQuinta.csp
 C:\Users\24111795\source\repos\restauranteQuinta\obj\Debug\restauranteQuinta.csproj.CoreCompileInputs.cache
 C:\Users\24111795\source\repos\restauranteQuinta\obj\Debug\restauranteQuinta.exe
 C:\Users\24111795\source\repos\restauranteQuinta\obj\Debug\restauranteQuinta.pdb
+C:\Users\24111795\source\repos\restauranteQuinta\obj\Debug\restauranteQuinta.Form2.resources

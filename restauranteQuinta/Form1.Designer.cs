@@ -98,6 +98,7 @@
             this.chbChop.TabIndex = 4;
             this.chbChop.Text = "Chop R$ 4,50: ";
             this.chbChop.UseVisualStyleBackColor = true;
+            this.chbChop.CheckedChanged += new System.EventHandler(this.chbChop_CheckedChanged);
             // 
             // chbPetiscos
             // 
@@ -128,6 +129,7 @@
             this.txtChop.Name = "txtChop";
             this.txtChop.Size = new System.Drawing.Size(100, 20);
             this.txtChop.TabIndex = 7;
+            this.txtChop.TextChanged += new System.EventHandler(this.txtChop_TextChanged);
             // 
             // txtPetiscos
             // 
@@ -142,6 +144,7 @@
             this.txtRefeicoes.Name = "txtRefeicoes";
             this.txtRefeicoes.Size = new System.Drawing.Size(100, 20);
             this.txtRefeicoes.TabIndex = 9;
+            this.txtRefeicoes.TextChanged += new System.EventHandler(this.txtRefeicoes_TextChanged);
             // 
             // lblTotalParcial
             // 
@@ -159,6 +162,7 @@
             this.txtTotalParcial.Name = "txtTotalParcial";
             this.txtTotalParcial.Size = new System.Drawing.Size(100, 20);
             this.txtTotalParcial.TabIndex = 11;
+            this.txtTotalParcial.TextChanged += new System.EventHandler(this.txtTotalParcial_TextChanged);
             // 
             // lblTaxaServico
             // 
@@ -193,6 +197,7 @@
             this.txtTotalPagar.Name = "txtTotalPagar";
             this.txtTotalPagar.Size = new System.Drawing.Size(100, 20);
             this.txtTotalPagar.TabIndex = 15;
+            this.txtTotalPagar.TextChanged += new System.EventHandler(this.txtTotalPagar_TextChanged);
             // 
             // btnConfirma
             // 
@@ -223,12 +228,14 @@
             this.btnSair.TabIndex = 18;
             this.btnSair.Text = "Sair";
             this.btnSair.UseVisualStyleBackColor = true;
+            this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ControlBox = false;
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.bntPagarConta);
             this.Controls.Add(this.btnConfirma);
@@ -248,6 +255,7 @@
             this.Controls.Add(this.lblPedidos);
             this.Controls.Add(this.txtNumMesa);
             this.Controls.Add(this.lblNumMesa);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form1";
